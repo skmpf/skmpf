@@ -13,5 +13,5 @@ While I primarily focus on **frontend development** 🖥️, I occasionally dive
 ---
 
 _Always excited to collaborate on interesting projects or just chat tech! Feel free to reach out._\
-📅 [Book a call](https://calendly.com/sebkmpf/30-minute-meeting-with-sebastien-kempf-clone-1)\
+📅 [Book a call](https://calendly.com/sebkmpf/30-minute-meeting-with-sebastien-kempf)\
 💼 [LinkedIn](https://www.linkedin.com/in/sebastienkempf/)

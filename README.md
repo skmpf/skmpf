@@ -6,7 +6,7 @@ While I primarily focus on **frontend development** 🖥️, I occasionally dive
 ---
 
 🎧 **Frontend Engineer** at [Deezer](https://www.deezer.com/)\
-🍷 Creator of [VinoMemo](https://apps.apple.com/us/app/vinomemo/id6754691185)\
+🍷 Founder of [VinoMemo](https://apps.apple.com/us/app/vinomemo/id6754691185)\
 🌍 Working **remotely** since 2020\
 💡 Enthusiast of **clean code**, **agile methodologies**, and **continuous improvement**\
 🎯 Former **Project Manager** turned developer, combining strategy with hands-on execution
